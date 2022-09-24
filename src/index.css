@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+body{
+  background-color: white;
+  font-family: 'Roboto', sans-serif;
+}
+input{
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 2%;
+}
+.form-control{
+  width: 40%;
+}
+.img1{
+  width: 88rem;
+}
+.img2{
+  margin-left: 29%;
+  margin-top: 10%;
+}
+
+.card{
+  margin-top: 30%;
+  color: red;
+  text-align: center;
+  width: 20%;
+  border: 2px solid #FBF65E;
+  text-shadow: 0 0 1px black;
+  margin: 15%;
+}
+.card2{
+  background-color: #FBF65E;
+}
+
+
+.form-label{
+  margin-left: 33rem;
+  color: red;
+}
+.footer{
+  background-color: #FBF65E;
+  border: 3px solid red;
+  padding: 2rem;
+  margin-top: 5%;
+
+}
+.header{
+  width: 10rem;
+}
+.d-flex{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  
+}
